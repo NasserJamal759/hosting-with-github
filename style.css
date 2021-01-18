@@ -1,0 +1,84 @@
+.con{
+    position: relative;
+    top: 15px;
+}
+input{
+    
+    color:whitesmoke;
+    background: none;
+    outline: none;
+    border-top: 0px solid;
+    border-right: 0px solid;
+    border-bottom:3px solid rgb(151, 241, 129);
+    border-left: 0px solid; 
+    line-height: 4em;
+    
+   
+}
+input:hover{
+    background-color: rgba(0, 0, 0, 0.219);
+}
+body{
+    background-image: url(../nasir/roberto-catarinicchia-TaZkrh6REEc-unsplash.jpg);
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size:;
+    
+}
+html,body{height: 100%;}
+
+    
+    
+
+label{
+   color:#ffffff	;
+}
+label{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+button{
+    margin-top: 20px;
+    padding: 10px 100px 10px 100px;
+    border: black 2px solid;
+    background-color: rgba(135, 255, 135, 0);
+    border-radius: 5px;
+    color:rgb(77, 162, 50);
+    font-size: large;
+    font-weight: bolder;
+    
+}
+button:hover{
+    background-color: rgba(2, 2, 2, 0.308);
+}
+::placeholder{
+    color: rgba(0, 0, 0, 0.959)
+}
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: black;
+    text-align: center;
+    font-size: 100px ;
+    position: relative;
+    bottom: 50px;
+    border-bottom: rgb(162, 255, 23);
+    color:rgb(0, 0, 0)
+
+}
+.down{
+    
+    margin-left:20px ;
+    text-align: center;
+    position: relative;
+    bottom: 120px;
+}
+
+::placeholder{font-size: 30px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    letter-spacing: 1px;}
+
+
+                       
